@@ -11,8 +11,8 @@
 > Note: Running time is around 15 seconds(depending on how and length of user name, password or description, etc.)
 
 ### Additional options:
-- Optionally you can add `-FullName` and `-Description` parameters to give account more believable look: 
-`New-LocalUser \"accName\" -Password $pass -FullName \"User name\" -Description \"Description of new account\"`
+- Optionally you can add `-FullName` and `-Description` parameters to give account more believable look:
+- `New-LocalUser \"accName\" -Password $pass -FullName \"User name\" -Description \"Description of new account\"`
 
 ### Credit
 - https://github.com/Michyus
