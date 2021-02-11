@@ -1,4 +1,4 @@
-//This DigiSpark script creates new local user and adds it into "Administrators" group
+//This DigiSpark script create new windows local user and add it into "Administrators" group
 //Tested on Windows 10 with English(US) keyboard layout
 //Created by Michyus
 #include "DigiKeyboard.h"
